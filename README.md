@@ -1,5 +1,5 @@
-#Simple To Do List
-##ScreenShots
+# Simple To Do List
+## ScreenShots
 
 ![todo](todo/todo-1.JPG)
 ![todo](todo/todo-2.JPG)
